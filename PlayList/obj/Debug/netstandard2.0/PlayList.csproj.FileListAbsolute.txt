@@ -1,9 +1,0 @@
-/home/bruno/Documentos/PlayList/PlayList/bin/Debug/netstandard2.0/PlayList.deps.json
-/home/bruno/Documentos/PlayList/PlayList/bin/Debug/netstandard2.0/PlayList.dll
-/home/bruno/Documentos/PlayList/PlayList/bin/Debug/netstandard2.0/PlayList.pdb
-/home/bruno/Documentos/PlayList/PlayList/obj/Debug/netstandard2.0/PlayList.csprojAssemblyReference.cache
-/home/bruno/Documentos/PlayList/PlayList/obj/Debug/netstandard2.0/PlayList.csproj.CoreCompileInputs.cache
-/home/bruno/Documentos/PlayList/PlayList/obj/Debug/netstandard2.0/PlayList.AssemblyInfoInputs.cache
-/home/bruno/Documentos/PlayList/PlayList/obj/Debug/netstandard2.0/PlayList.AssemblyInfo.cs
-/home/bruno/Documentos/PlayList/PlayList/obj/Debug/netstandard2.0/PlayList.dll
-/home/bruno/Documentos/PlayList/PlayList/obj/Debug/netstandard2.0/PlayList.pdb
