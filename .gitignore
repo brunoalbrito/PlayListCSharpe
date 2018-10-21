@@ -1,6 +1,6 @@
 # File created using '.gitignore Generator' for Visual Studio Code: https://bit.ly/vscode-gig
 
-# Created by https://www.gitignore.io/api/linux,visualstudiocode,aspnetcore,database
+# Created by https://www.gitignore.io/api/linux,visualstudiocode,aspnetcore
 
 ### ASPNETCore ###
 ## Ignore Visual Studio temporary files, build results, and
@@ -272,14 +272,6 @@ __pycache__/
 # Cake - Uncomment if you are using it
 # tools/
 
-### Database ###
-*.accdb
-*.db
-*.dbf
-*.mdb
-*.sql
-*.sqlite3
-
 ### Linux ###
 
 # temporary files which can be created if a process still has a handle open of a deleted file
@@ -302,7 +294,8 @@ __pycache__/
 !.vscode/extensions.json
 
 
-# End of https://www.gitignore.io/api/linux,visualstudiocode,aspnetcore,database
+# End of https://www.gitignore.io/api/linux,visualstudiocode,aspnetcore
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
-
+bin
+obj

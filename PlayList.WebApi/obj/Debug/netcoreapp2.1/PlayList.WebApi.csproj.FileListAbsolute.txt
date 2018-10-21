@@ -1,0 +1,14 @@
+/home/bruno/Documentos/PlayList/PlayList.WebApi/bin/Debug/netcoreapp2.1/PlayList.WebApi.deps.json
+/home/bruno/Documentos/PlayList/PlayList.WebApi/bin/Debug/netcoreapp2.1/PlayList.WebApi.runtimeconfig.json
+/home/bruno/Documentos/PlayList/PlayList.WebApi/bin/Debug/netcoreapp2.1/PlayList.WebApi.runtimeconfig.dev.json
+/home/bruno/Documentos/PlayList/PlayList.WebApi/bin/Debug/netcoreapp2.1/PlayList.WebApi.dll
+/home/bruno/Documentos/PlayList/PlayList.WebApi/bin/Debug/netcoreapp2.1/PlayList.WebApi.pdb
+/home/bruno/Documentos/PlayList/PlayList.WebApi/obj/Debug/netcoreapp2.1/PlayList.WebApi.csprojAssemblyReference.cache
+/home/bruno/Documentos/PlayList/PlayList.WebApi/obj/Debug/netcoreapp2.1/PlayList.WebApi.csproj.CoreCompileInputs.cache
+/home/bruno/Documentos/PlayList/PlayList.WebApi/obj/Debug/netcoreapp2.1/PlayList.WebApi.RazorAssemblyInfo.cache
+/home/bruno/Documentos/PlayList/PlayList.WebApi/obj/Debug/netcoreapp2.1/PlayList.WebApi.RazorAssemblyInfo.cs
+/home/bruno/Documentos/PlayList/PlayList.WebApi/obj/Debug/netcoreapp2.1/PlayList.WebApi.AssemblyInfoInputs.cache
+/home/bruno/Documentos/PlayList/PlayList.WebApi/obj/Debug/netcoreapp2.1/PlayList.WebApi.AssemblyInfo.cs
+/home/bruno/Documentos/PlayList/PlayList.WebApi/obj/Debug/netcoreapp2.1/PlayList.WebApi.RazorTargetAssemblyInfo.cache
+/home/bruno/Documentos/PlayList/PlayList.WebApi/obj/Debug/netcoreapp2.1/PlayList.WebApi.dll
+/home/bruno/Documentos/PlayList/PlayList.WebApi/obj/Debug/netcoreapp2.1/PlayList.WebApi.pdb
